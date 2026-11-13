@@ -1,0 +1,25 @@
+{
+  "id": "mini-check",
+  "title": "Plep Mini",
+  "grid": [
+    "##SPA",
+    "#STAR",
+    "WHITE",
+    "HOLE#",
+    "OWL##"
+  ],
+  "across": {
+    "1": "Place for a massage and a sauna",
+    "4": "The sun, for one",
+    "5": "Color of fresh snow",
+    "6": "Golfer's target",
+    "7": "Bird that gives a hoot"
+  },
+  "down": {
+    "1": "Motionless",
+    "2": "Spread often served on toast",
+    "3": "\"You ___ here\" (words on a mall map)",
+    "4": "Broadway production",
+    "5": "Question after a knock at the door"
+  }
+}
