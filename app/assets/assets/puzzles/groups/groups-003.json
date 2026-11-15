@@ -1,0 +1,45 @@
+{
+  "id": "groups-003",
+  "groups": [
+    {
+      "name": "Planets",
+      "level": 1,
+      "words": [
+        "MARS",
+        "VENUS",
+        "SATURN",
+        "MERCURY"
+      ]
+    },
+    {
+      "name": "Shades of blue",
+      "level": 2,
+      "words": [
+        "NAVY",
+        "TEAL",
+        "COBALT",
+        "SKY"
+      ]
+    },
+    {
+      "name": "Things with a shell",
+      "level": 3,
+      "words": [
+        "TURTLE",
+        "EGG",
+        "TACO",
+        "SNAIL"
+      ]
+    },
+    {
+      "name": "Sound like letters",
+      "level": 4,
+      "words": [
+        "QUEUE",
+        "EYE",
+        "TEA",
+        "WHY"
+      ]
+    }
+  ]
+}

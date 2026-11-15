@@ -1,0 +1,45 @@
+{
+  "id": "groups-006",
+  "groups": [
+    {
+      "name": "Musical instruments",
+      "level": 1,
+      "words": [
+        "OBOE",
+        "FLUTE",
+        "HARP",
+        "TRUMPET"
+      ]
+    },
+    {
+      "name": "Fish",
+      "level": 2,
+      "words": [
+        "BASS",
+        "SALMON",
+        "COD",
+        "TROUT"
+      ]
+    },
+    {
+      "name": "Things with strings",
+      "level": 3,
+      "words": [
+        "PUPPET",
+        "KITE",
+        "TENNIS RACKET",
+        "YO-YO"
+      ]
+    },
+    {
+      "name": "Hides a vehicle",
+      "level": 4,
+      "words": [
+        "SCARF",
+        "VANILLA",
+        "TRAMPOLINE",
+        "CABARET"
+      ]
+    }
+  ]
+}

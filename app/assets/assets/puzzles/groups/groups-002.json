@@ -1,0 +1,45 @@
+{
+  "id": "groups-002",
+  "groups": [
+    {
+      "name": "Breakfast foods",
+      "level": 1,
+      "words": [
+        "PANCAKE",
+        "TOAST",
+        "CEREAL",
+        "OMELETTE"
+      ]
+    },
+    {
+      "name": "Card games",
+      "level": 2,
+      "words": [
+        "SNAP",
+        "POKER",
+        "BRIDGE",
+        "RUMMY"
+      ]
+    },
+    {
+      "name": "Things you can break",
+      "level": 3,
+      "words": [
+        "RECORD",
+        "PROMISE",
+        "NEWS",
+        "ICE"
+      ]
+    },
+    {
+      "name": "Starts with a body part",
+      "level": 4,
+      "words": [
+        "HANDSOME",
+        "LEGEND",
+        "EARNEST",
+        "CHINCHILLA"
+      ]
+    }
+  ]
+}

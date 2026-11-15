@@ -1,0 +1,45 @@
+{
+  "id": "groups-005",
+  "groups": [
+    {
+      "name": "Fruit",
+      "level": 1,
+      "words": [
+        "APPLE",
+        "MANGO",
+        "CHERRY",
+        "LEMON"
+      ]
+    },
+    {
+      "name": "In a toolbox",
+      "level": 2,
+      "words": [
+        "HAMMER",
+        "WRENCH",
+        "PLIERS",
+        "TAPE MEASURE"
+      ]
+    },
+    {
+      "name": "Things that get pressed",
+      "level": 3,
+      "words": [
+        "FLOWER",
+        "SHIRT",
+        "BUTTON",
+        "PANINI"
+      ]
+    },
+    {
+      "name": "Ends with a number",
+      "level": 4,
+      "words": [
+        "OFTEN",
+        "CANINE",
+        "FREIGHT",
+        "BONE"
+      ]
+    }
+  ]
+}

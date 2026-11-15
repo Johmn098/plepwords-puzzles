@@ -1,0 +1,45 @@
+{
+  "id": "groups-004",
+  "groups": [
+    {
+      "name": "Fast ways to travel",
+      "level": 1,
+      "words": [
+        "JET",
+        "SPEEDBOAT",
+        "BULLET TRAIN",
+        "MOTORBIKE"
+      ]
+    },
+    {
+      "name": "Things with stars",
+      "level": 2,
+      "words": [
+        "CHRISTMAS TREE",
+        "NIGHT SKY",
+        "SHERIFF",
+        "HOLLYWOOD"
+      ]
+    },
+    {
+      "name": "Things you tap",
+      "level": 3,
+      "words": [
+        "KEG",
+        "PHONE",
+        "SHOULDER",
+        "MAPLE TREE"
+      ]
+    },
+    {
+      "name": "Read the same backwards",
+      "level": 4,
+      "words": [
+        "RACE CAR",
+        "KAYAK",
+        "CIVIC",
+        "NOON"
+      ]
+    }
+  ]
+}

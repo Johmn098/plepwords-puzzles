@@ -1,0 +1,25 @@
+{
+  "id": "mini-004",
+  "title": "Plep Mini",
+  "grid": [
+    "NOT##",
+    "EVEN#",
+    "WANES",
+    "#LEAP",
+    "##TRY"
+  ],
+  "across": {
+    "1": "Word that flips a sentence's meaning",
+    "4": "Divisible by two",
+    "6": "Gets smaller, like the moon",
+    "8": "Frog's move",
+    "9": "Give it a shot"
+  },
+  "down": {
+    "1": "Just opened",
+    "2": "Egg shape",
+    "3": "Core principle",
+    "5": "Close by",
+    "7": "Secret agent"
+  }
+}

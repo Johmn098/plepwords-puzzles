@@ -1,0 +1,25 @@
+{
+  "id": "mini-005",
+  "title": "Plep Mini",
+  "grid": [
+    "#AGO#",
+    "FLUFF",
+    "ELITE",
+    "NOSED",
+    "#TEN#"
+  ],
+  "across": {
+    "1": "Two days ___",
+    "4": "Pillow stuffing",
+    "6": "Top of the class",
+    "7": "Edged forward, as a car into traffic",
+    "8": "Number of fingers"
+  },
+  "down": {
+    "1": "Assign a share",
+    "2": "Outward appearance",
+    "3": "Frequently",
+    "4": "Marshy wetland",
+    "5": "Gave a meal to"
+  }
+}

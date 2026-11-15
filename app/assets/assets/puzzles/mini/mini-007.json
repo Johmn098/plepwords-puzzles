@@ -1,0 +1,25 @@
+{
+  "id": "mini-007",
+  "title": "Plep Mini",
+  "grid": [
+    "APPLE",
+    "PURER",
+    "ARENA",
+    "REEDS",
+    "TENSE"
+  ],
+  "across": {
+    "1": "Teacher's gift fruit",
+    "6": "More free of impurities",
+    "7": "Sports venue",
+    "8": "Marsh grasses",
+    "9": "Uptight"
+  },
+  "down": {
+    "1": "In pieces",
+    "2": "Blended baby food",
+    "3": "Groom feathers",
+    "4": "Lets someone borrow",
+    "5": "Rub out"
+  }
+}

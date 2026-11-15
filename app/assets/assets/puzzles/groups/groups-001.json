@@ -1,0 +1,45 @@
+{
+  "id": "groups-001",
+  "groups": [
+    {
+      "name": "Things with needles",
+      "level": 1,
+      "words": [
+        "CACTUS",
+        "COMPASS",
+        "HEDGEHOG",
+        "SEWING KIT"
+      ]
+    },
+    {
+      "name": "Things with keys",
+      "level": 2,
+      "words": [
+        "PIANO",
+        "MAP",
+        "LOCKSMITH",
+        "TYPEWRITER"
+      ]
+    },
+    {
+      "name": "___cake",
+      "level": 3,
+      "words": [
+        "CUP",
+        "PAN",
+        "SPONGE",
+        "CHEESE"
+      ]
+    },
+    {
+      "name": "Animal plus one letter",
+      "level": 4,
+      "words": [
+        "BEARD",
+        "BOARD",
+        "CROWN",
+        "COWL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "groups-007",
+  "groups": [
+    {
+      "name": "Weather",
+      "level": 1,
+      "words": [
+        "RAIN",
+        "SNOW",
+        "HAIL",
+        "FOG"
+      ]
+    },
+    {
+      "name": "Things with a lid",
+      "level": 2,
+      "words": [
+        "JAR",
+        "LAPTOP",
+        "EYE",
+        "PIANO"
+      ]
+    },
+    {
+      "name": "Things that pop",
+      "level": 3,
+      "words": [
+        "BALLOON",
+        "CORK",
+        "BUBBLE WRAP",
+        "TOASTER"
+      ]
+    },
+    {
+      "name": "Another word backwards",
+      "level": 4,
+      "words": [
+        "STRAW",
+        "DRAWER",
+        "STRESSED",
+        "LIVE"
+      ]
+    }
+  ]
+}

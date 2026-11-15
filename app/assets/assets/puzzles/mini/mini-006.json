@@ -1,0 +1,25 @@
+{
+  "id": "mini-006",
+  "title": "Plep Mini",
+  "grid": [
+    "#EGGS",
+    "#AREA",
+    "GREED",
+    "ALAS#",
+    "BYTE#"
+  ],
+  "across": {
+    "1": "Omelet ingredients",
+    "5": "Square footage",
+    "6": "Miser's vice",
+    "7": "Word of sorrow",
+    "8": "Eight bits"
+  },
+  "down": {
+    "1": "Ahead of schedule",
+    "2": "Terrific",
+    "3": "Flock flying in a V",
+    "4": "Blue",
+    "6": "Chat away"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mini-003",
+  "title": "Plep Mini",
+  "grid": [
+    "AIMS#",
+    "IDOLS",
+    "REVUE",
+    "SAINT",
+    "#LEGS"
+  ],
+  "across": {
+    "1": "Sets one's sights",
+    "5": "Pop stars to their fans",
+    "7": "Variety show with songs and skits",
+    "8": "Halo wearer",
+    "9": "Table supports"
+  },
+  "down": {
+    "1": "Broadcasts",
+    "2": "Perfect",
+    "3": "Film",
+    "4": "Tossed over the shoulder, as a bag",
+    "6": "Tennis match segments"
+  }
+}
